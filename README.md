@@ -12,6 +12,9 @@ January 24, 2024 <br>
 ### Part I. Instantiating & Merging Datasets
 
 ### Part II. Data Visualization
+Screenshot
+
+![Screenshot](./Graph 1.png "Fertility Rate vs Life Expectancy between 1960 and 2020")
 
 ### Part III. Analysis and Insights
 

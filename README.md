@@ -15,6 +15,7 @@ January 24, 2024 <br>
 
 Graph 1
 ![Graph 1]Graph 1.png
+![dude_gif](./Graph 1.png)
 
 ### Part III. Analysis and Insights
 

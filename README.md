@@ -14,8 +14,13 @@ January 24, 2024 <br>
 ### Part II. Data Visualization
 
 Graph 1
+![Graph 1](./Graph_1.png)
 
-![Graph 1](./main/Graph_1.png)
+Graph 2
+![Graph 2](./Graph_2.png)
+
+Graph 5
+![Graph 5](./Graph_5.png)
 
 
 ### Part III. Analysis and Insights

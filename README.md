@@ -14,8 +14,9 @@ January 24, 2024 <br>
 ### Part II. Data Visualization
 
 Graph 1
-![Graph 1]("./https://github.com/mkcjbantugon/Data-Analyst-at-World-Bank/Graph 1.png")
-![Graph 1](./main/Graph 1.png)
+
+![Graph 1](./main/Graph_1.png)
+
 
 ### Part III. Analysis and Insights
 

@@ -13,6 +13,9 @@ January 24, 2024 <br>
 
 ### Part II. Data Visualization
 
+Graph 1
+![Graph 1]Graph 1.png
+
 ### Part III. Analysis and Insights
 
 ### Part IV. References
